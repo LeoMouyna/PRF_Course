@@ -15,7 +15,7 @@ for simtime in 0.05 0.1 0.2 0.3 0.4 0.5 1 2 5 10 20 50 100 200 300 500 700 1000;
 	echo "Simulating [simtime " $simtime "/ lambda " $lambda "/ mu " $mu "/ K " $K "]"
 
 	# run the simulation
-	./buffer tracefile.log $simtime $lambda $mu $K
+	./SimulateBuffer tracefile.log $simtime $lambda $mu $K
 
 	# get the statistics
 	awk -f postprocess.awk tracefile.log > temporary.log
