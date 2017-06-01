@@ -1,0 +1,1754 @@
+at 0.086651 pkt 1 arrival
+at 0.095750 pkt 2 arrival
+at 0.113440 pkt 1 departure
+at 0.212498 pkt 3 arrival
+at 0.234465 pkt 2 departure
+at 0.280234 pkt 4 arrival
+at 0.441294 pkt 3 departure
+at 0.468170 pkt 5 arrival
+at 0.502864 pkt 4 departure
+at 0.517065 pkt 5 departure
+at 0.613856 pkt 6 arrival
+at 0.685736 pkt 7 arrival
+at 0.700617 pkt 6 departure
+at 0.712313 pkt 7 departure
+at 0.729468 pkt 8 arrival
+at 0.775125 pkt 8 departure
+at 0.844091 pkt 9 arrival
+at 0.861748 pkt 10 arrival
+at 0.867058 pkt 9 departure
+at 0.910566 pkt 11 arrival
+at 0.955329 pkt 10 departure
+at 1.065832 pkt 12 arrival
+at 1.092960 pkt 13 arrival
+at 1.124896 pkt 14 arrival
+at 1.274499 pkt 15 arrival
+at 1.352490 pkt 11 departure
+at 1.568190 pkt 16 arrival
+at 1.592799 pkt 12 departure
+at 1.606352 pkt 13 departure
+at 1.615220 pkt 14 departure
+at 1.646550 pkt 15 departure
+at 1.702830 pkt 17 arrival
+at 1.725566 pkt 18 arrival
+at 1.738391 pkt 16 departure
+at 1.753987 pkt 17 departure
+at 1.755074 pkt 18 departure
+at 2.273374 pkt 19 arrival
+at 2.370041 pkt 19 departure
+at 2.430214 pkt 20 arrival
+at 2.561660 pkt 20 departure
+at 2.582370 pkt 21 arrival
+at 2.593710 pkt 21 departure
+at 2.755380 pkt 22 arrival
+at 2.877458 pkt 23 arrival
+at 2.925768 pkt 22 departure
+at 2.972533 pkt 23 departure
+at 3.111058 pkt 24 arrival
+at 3.187872 pkt 25 arrival
+at 3.292919 pkt 26 arrival
+at 3.324446 pkt 24 departure
+at 3.340360 pkt 27 arrival
+at 3.346293 pkt 25 departure
+at 3.353389 pkt 26 departure
+at 3.503954 pkt 28 arrival
+at 3.574845 pkt 29 arrival
+at 3.619863 pkt 27 departure
+at 3.736652 pkt 28 departure
+at 3.746362 pkt 29 departure
+at 3.794545 pkt 30 arrival
+at 3.809455 pkt 31 arrival
+at 3.821588 pkt 32 arrival
+at 3.836679 pkt 30 departure
+at 3.863626 pkt 33 arrival
+at 3.865543 pkt 31 departure
+at 3.885667 pkt 34 arrival
+at 3.972355 pkt 35 arrival
+at 4.085129 pkt 36 arrival
+at 4.158348 pkt release
+at 4.180817 pkt release
+at 4.202920 pkt release
+at 4.312117 pkt 32 departure
+at 4.313824 pkt 33 departure
+at 4.342901 pkt 34 departure
+at 4.496837 pkt 37 arrival
+at 4.530861 pkt 35 departure
+at 4.635831 pkt 38 arrival
+at 4.715243 pkt 39 arrival
+at 4.749964 pkt 36 departure
+at 4.808442 pkt 40 arrival
+at 4.868286 pkt 37 departure
+at 4.966526 pkt 38 departure
+at 5.044327 pkt 41 arrival
+at 5.072996 pkt 42 arrival
+at 5.085052 pkt 39 departure
+at 5.099410 pkt 43 arrival
+at 5.110250 pkt 40 departure
+at 5.141781 pkt 41 departure
+at 5.155747 pkt 44 arrival
+at 5.157515 pkt 45 arrival
+at 5.211015 pkt 42 departure
+at 5.243899 pkt 46 arrival
+at 5.259079 pkt 47 arrival
+at 5.284193 pkt release
+at 5.374444 pkt release
+at 5.388413 pkt 43 departure
+at 5.403145 pkt 44 departure
+at 5.568273 pkt 48 arrival
+at 5.671023 pkt 49 arrival
+at 5.684170 pkt 45 departure
+at 5.700311 pkt 46 departure
+at 5.769058 pkt 47 departure
+at 5.798787 pkt 48 departure
+at 5.832291 pkt 50 arrival
+at 5.888594 pkt 49 departure
+at 5.894847 pkt 51 arrival
+at 5.921861 pkt 50 departure
+at 6.029496 pkt 51 departure
+at 6.127517 pkt 52 arrival
+at 6.170109 pkt 53 arrival
+at 6.194393 pkt 54 arrival
+at 6.221023 pkt 52 departure
+at 6.292776 pkt 53 departure
+at 6.301722 pkt 55 arrival
+at 6.507603 pkt 54 departure
+at 6.644668 pkt 56 arrival
+at 6.692105 pkt 57 arrival
+at 6.743753 pkt 58 arrival
+at 6.750055 pkt 55 departure
+at 6.754741 pkt 56 departure
+at 6.864179 pkt 59 arrival
+at 6.904765 pkt 60 arrival
+at 7.042398 pkt 61 arrival
+at 7.062299 pkt release
+at 7.214927 pkt 57 departure
+at 7.277526 pkt 62 arrival
+at 7.395288 pkt release
+at 7.413749 pkt 58 departure
+at 7.426876 pkt 63 arrival
+at 7.438736 pkt 59 departure
+at 7.449475 pkt 64 arrival
+at 7.574094 pkt release
+at 7.607931 pkt release
+at 7.641105 pkt 60 departure
+at 7.704004 pkt 61 departure
+at 7.752613 pkt 65 arrival
+at 7.755803 pkt 66 arrival
+at 7.859619 pkt release
+at 7.941801 pkt release
+at 7.958030 pkt release
+at 8.060878 pkt 62 departure
+at 8.092870 pkt 67 arrival
+at 8.518916 pkt release
+at 8.566305 pkt 63 departure
+at 8.589995 pkt 64 departure
+at 8.608416 pkt 65 departure
+at 8.659788 pkt 68 arrival
+at 8.713578 pkt 69 arrival
+at 8.735219 pkt 66 departure
+at 8.735914 pkt 70 arrival
+at 8.762511 pkt 71 arrival
+at 8.777028 pkt release
+at 8.787320 pkt 67 departure
+at 8.809939 pkt 68 departure
+at 8.896095 pkt 69 departure
+at 8.911595 pkt 70 departure
+at 8.968288 pkt 71 departure
+at 9.099577 pkt 72 arrival
+at 9.116473 pkt 73 arrival
+at 9.236194 pkt 74 arrival
+at 9.289569 pkt 72 departure
+at 9.358199 pkt 75 arrival
+at 9.398475 pkt 76 arrival
+at 9.698382 pkt 73 departure
+at 9.780424 pkt 77 arrival
+at 9.812075 pkt 78 arrival
+at 9.869858 pkt 74 departure
+at 10.001983 pkt 75 departure
+at 10.069503 pkt 79 arrival
+at 10.082336 pkt 76 departure
+at 10.086612 pkt 80 arrival
+at 10.087532 pkt 81 arrival
+at 10.095214 pkt 77 departure
+at 10.135143 pkt 78 departure
+at 10.247006 pkt 79 departure
+at 10.319953 pkt 82 arrival
+at 10.349170 pkt 83 arrival
+at 10.373638 pkt 84 arrival
+at 10.396555 pkt 80 departure
+at 10.423399 pkt 81 departure
+at 10.466757 pkt 82 departure
+at 10.490172 pkt 83 departure
+at 10.579851 pkt 85 arrival
+at 10.584609 pkt 84 departure
+at 10.637333 pkt 86 arrival
+at 10.894174 pkt 85 departure
+at 10.907545 pkt 87 arrival
+at 11.008632 pkt 86 departure
+at 11.094190 pkt 87 departure
+at 11.108839 pkt 88 arrival
+at 11.142223 pkt 88 departure
+at 11.220374 pkt 89 arrival
+at 11.324657 pkt 90 arrival
+at 11.346434 pkt 89 departure
+at 11.356481 pkt 91 arrival
+at 11.372373 pkt 92 arrival
+at 11.397778 pkt 90 departure
+at 11.428685 pkt 91 departure
+at 11.439939 pkt 93 arrival
+at 11.449624 pkt 92 departure
+at 11.466128 pkt 94 arrival
+at 11.531537 pkt 95 arrival
+at 11.616685 pkt 93 departure
+at 11.631297 pkt 94 departure
+at 11.647870 pkt 95 departure
+at 11.667747 pkt 96 arrival
+at 11.711234 pkt 97 arrival
+at 11.712923 pkt 98 arrival
+at 11.777441 pkt 99 arrival
+at 11.855943 pkt 96 departure
+at 11.869791 pkt 100 arrival
+at 11.920620 pkt 97 departure
+at 11.930963 pkt 101 arrival
+at 11.980521 pkt 98 departure
+at 11.989240 pkt 99 departure
+at 12.039977 pkt 102 arrival
+at 12.053405 pkt 100 departure
+at 12.064218 pkt 101 departure
+at 12.129576 pkt 102 departure
+at 12.351578 pkt 103 arrival
+at 12.569484 pkt 103 departure
+at 12.570471 pkt 104 arrival
+at 12.614067 pkt 104 departure
+at 13.221431 pkt 105 arrival
+at 13.328350 pkt 105 departure
+at 13.582945 pkt 106 arrival
+at 13.625038 pkt 106 departure
+at 13.693898 pkt 107 arrival
+at 13.759301 pkt 108 arrival
+at 13.792840 pkt 109 arrival
+at 14.146462 pkt 107 departure
+at 14.169006 pkt 110 arrival
+at 14.207668 pkt 111 arrival
+at 14.234025 pkt 112 arrival
+at 14.248190 pkt release
+at 14.365599 pkt release
+at 14.367734 pkt 108 departure
+at 14.606665 pkt 109 departure
+at 14.708352 pkt 113 arrival
+at 14.748202 pkt 114 arrival
+at 15.041431 pkt release
+at 15.134849 pkt release
+at 15.147852 pkt 110 departure
+at 15.162341 pkt 111 departure
+at 15.187826 pkt 115 arrival
+at 15.197723 pkt 116 arrival
+at 15.304254 pkt 112 departure
+at 15.309246 pkt 117 arrival
+at 15.683804 pkt release
+at 15.994011 pkt 113 departure
+at 16.012975 pkt 114 departure
+at 16.016933 pkt 115 departure
+at 16.047653 pkt 116 departure
+at 16.114132 pkt 118 arrival
+at 16.203267 pkt 117 departure
+at 16.234970 pkt 119 arrival
+at 16.238203 pkt 120 arrival
+at 16.305436 pkt 118 departure
+at 16.362139 pkt 121 arrival
+at 16.384096 pkt 122 arrival
+at 16.425455 pkt 123 arrival
+at 16.597954 pkt 119 departure
+at 16.727308 pkt 124 arrival
+at 16.770716 pkt 120 departure
+at 16.774874 pkt 121 departure
+at 16.816107 pkt 122 departure
+at 16.817663 pkt 125 arrival
+at 16.819353 pkt 126 arrival
+at 16.914859 pkt 127 arrival
+at 16.915623 pkt 123 departure
+at 17.117179 pkt 128 arrival
+at 17.201260 pkt release
+at 17.218124 pkt release
+at 17.237790 pkt release
+at 17.306911 pkt release
+at 17.331163 pkt release
+at 17.332068 pkt 124 departure
+at 17.399866 pkt 129 arrival
+at 17.634304 pkt release
+at 17.644305 pkt release
+at 17.658976 pkt 125 departure
+at 17.717927 pkt 126 departure
+at 17.744284 pkt 130 arrival
+at 17.884186 pkt 131 arrival
+at 17.929086 pkt release
+at 17.970241 pkt 127 departure
+at 17.977030 pkt 128 departure
+at 18.006936 pkt 129 departure
+at 18.046073 pkt 132 arrival
+at 18.360429 pkt 133 arrival
+at 18.375088 pkt 134 arrival
+at 18.492923 pkt 130 departure
+at 18.494008 pkt 135 arrival
+at 18.517061 pkt 131 departure
+at 18.653224 pkt 132 departure
+at 18.664534 pkt 136 arrival
+at 18.667786 pkt 133 departure
+at 18.734174 pkt 134 departure
+at 18.803262 pkt 137 arrival
+at 18.855933 pkt 138 arrival
+at 18.979985 pkt 139 arrival
+at 19.110876 pkt 135 departure
+at 19.172998 pkt 140 arrival
+at 19.224979 pkt 136 departure
+at 19.263353 pkt 137 departure
+at 19.300688 pkt 138 departure
+at 19.331472 pkt 141 arrival
+at 19.378330 pkt 139 departure
+at 19.416376 pkt 142 arrival
+at 19.491272 pkt 143 arrival
+at 19.528344 pkt 140 departure
+at 19.596050 pkt 144 arrival
+at 19.598148 pkt 141 departure
+at 19.670444 pkt 145 arrival
+at 19.791879 pkt 146 arrival
+at 19.912863 pkt 142 departure
+at 20.010283 pkt 143 departure
+at 20.042539 pkt 144 departure
+at 20.083117 pkt 147 arrival
+at 20.175434 pkt 148 arrival
+at 20.196071 pkt 145 departure
+at 20.208446 pkt 149 arrival
+at 20.230534 pkt 146 departure
+at 20.236379 pkt 147 departure
+at 20.268568 pkt 150 arrival
+at 20.271560 pkt 148 departure
+at 20.324294 pkt 151 arrival
+at 20.334018 pkt 149 departure
+at 20.364555 pkt 152 arrival
+at 20.398836 pkt 153 arrival
+at 20.577167 pkt 154 arrival
+at 20.585506 pkt release
+at 20.696314 pkt release
+at 20.751955 pkt release
+at 20.769869 pkt release
+at 20.864397 pkt release
+at 20.893459 pkt release
+at 21.059498 pkt release
+at 21.126058 pkt 150 departure
+at 21.143259 pkt 155 arrival
+at 21.207663 pkt 151 departure
+at 21.283789 pkt 152 departure
+at 21.351127 pkt 156 arrival
+at 21.426972 pkt 157 arrival
+at 21.542698 pkt release
+at 21.547101 pkt 153 departure
+at 21.640703 pkt 154 departure
+at 21.717676 pkt 158 arrival
+at 21.794888 pkt 155 departure
+at 21.850993 pkt 159 arrival
+at 21.851318 pkt 160 arrival
+at 21.904933 pkt release
+at 21.908971 pkt release
+at 21.915248 pkt release
+at 21.994420 pkt release
+at 22.034080 pkt release
+at 22.129168 pkt release
+at 22.277288 pkt release
+at 22.291531 pkt 156 departure
+at 22.383798 pkt 157 departure
+at 22.387676 pkt 161 arrival
+at 22.398879 pkt 162 arrival
+at 22.421651 pkt release
+at 22.426374 pkt 158 departure
+at 22.586326 pkt 163 arrival
+at 22.603830 pkt 159 departure
+at 22.715263 pkt 164 arrival
+at 22.801351 pkt release
+at 22.824859 pkt release
+at 22.845698 pkt 160 departure
+at 22.850968 pkt 161 departure
+at 22.968674 pkt 162 departure
+at 23.015387 pkt 163 departure
+at 23.036870 pkt 165 arrival
+at 23.123400 pkt 164 departure
+at 23.147156 pkt 165 departure
+at 23.227128 pkt 166 arrival
+at 23.264078 pkt 166 departure
+at 23.338701 pkt 167 arrival
+at 23.489991 pkt 168 arrival
+at 23.545768 pkt 167 departure
+at 23.546423 pkt 168 departure
+at 23.721684 pkt 169 arrival
+at 23.748929 pkt 170 arrival
+at 23.784385 pkt 171 arrival
+at 23.807389 pkt 172 arrival
+at 23.981687 pkt 169 departure
+at 23.989952 pkt 170 departure
+at 23.993802 pkt 173 arrival
+at 24.043386 pkt 174 arrival
+at 24.121182 pkt 175 arrival
+at 24.157903 pkt 171 departure
+at 24.288509 pkt 176 arrival
+at 24.351852 pkt release
+at 24.398829 pkt release
+at 24.418227 pkt release
+at 24.495633 pkt release
+at 24.511594 pkt 172 departure
+at 24.553185 pkt 173 departure
+at 24.598683 pkt 177 arrival
+at 24.742218 pkt 178 arrival
+at 24.793364 pkt release
+at 24.819071 pkt release
+at 24.823227 pkt 174 departure
+at 25.089892 pkt 179 arrival
+at 25.100622 pkt 175 departure
+at 25.212406 pkt 180 arrival
+at 25.213873 pkt 176 departure
+at 25.285130 pkt 181 arrival
+at 25.305672 pkt release
+at 25.573500 pkt release
+at 25.685087 pkt release
+at 25.760365 pkt release
+at 25.761763 pkt release
+at 25.792168 pkt 177 departure
+at 25.802708 pkt 182 arrival
+at 25.931069 pkt 178 departure
+at 25.964485 pkt 179 departure
+at 26.000383 pkt 180 departure
+at 26.011172 pkt 183 arrival
+at 26.012494 pkt 184 arrival
+at 26.023337 pkt 181 departure
+at 26.177456 pkt 185 arrival
+at 26.303632 pkt 182 departure
+at 26.343104 pkt 183 departure
+at 26.391384 pkt 184 departure
+at 26.410471 pkt 185 departure
+at 26.535193 pkt 186 arrival
+at 26.565304 pkt 187 arrival
+at 26.711777 pkt 186 departure
+at 26.719207 pkt 187 departure
+at 26.760004 pkt 188 arrival
+at 26.775515 pkt 188 departure
+at 26.856805 pkt 189 arrival
+at 26.859720 pkt 190 arrival
+at 27.028068 pkt 189 departure
+at 27.095769 pkt 191 arrival
+at 27.234830 pkt 190 departure
+at 27.286448 pkt 192 arrival
+at 27.312755 pkt 193 arrival
+at 27.416120 pkt 194 arrival
+at 27.434540 pkt 191 departure
+at 27.507721 pkt 195 arrival
+at 27.527513 pkt 192 departure
+at 27.551917 pkt 196 arrival
+at 27.657911 pkt 193 departure
+at 27.700363 pkt 194 departure
+at 27.703543 pkt 195 departure
+at 27.735722 pkt 196 departure
+at 27.764537 pkt 197 arrival
+at 27.770046 pkt 197 departure
+at 27.773587 pkt 198 arrival
+at 27.776170 pkt 198 departure
+at 27.812767 pkt 199 arrival
+at 27.825326 pkt 200 arrival
+at 27.833552 pkt 199 departure
+at 27.911965 pkt 200 departure
+at 27.940235 pkt 201 arrival
+at 27.992388 pkt 202 arrival
+at 28.000729 pkt 201 departure
+at 28.016543 pkt 203 arrival
+at 28.034388 pkt 202 departure
+at 28.101012 pkt 204 arrival
+at 28.109385 pkt 203 departure
+at 28.126871 pkt 205 arrival
+at 28.162300 pkt 204 departure
+at 28.239154 pkt 206 arrival
+at 28.351669 pkt 207 arrival
+at 28.402708 pkt 205 departure
+at 28.407236 pkt 208 arrival
+at 28.595639 pkt 206 departure
+at 28.639444 pkt 207 departure
+at 28.639654 pkt 208 departure
+at 28.702229 pkt 209 arrival
+at 28.734127 pkt 210 arrival
+at 28.741992 pkt 211 arrival
+at 28.770128 pkt 212 arrival
+at 28.835454 pkt 209 departure
+at 28.934443 pkt 213 arrival
+at 28.936917 pkt 214 arrival
+at 29.045327 pkt 210 departure
+at 29.048993 pkt 211 departure
+at 29.062062 pkt 215 arrival
+at 29.121367 pkt 212 departure
+at 29.189866 pkt 216 arrival
+at 29.361407 pkt 217 arrival
+at 29.455263 pkt release
+at 29.481162 pkt release
+at 29.608653 pkt 213 departure
+at 29.725610 pkt 218 arrival
+at 29.727445 pkt 214 departure
+at 29.823807 pkt 219 arrival
+at 29.916523 pkt release
+at 30.122182 pkt release
+at 30.203428 pkt release
+at 30.301768 pkt release
+at 30.394947 pkt release
+at 30.445536 pkt 215 departure
+at 30.482589 pkt 220 arrival
+at 30.611123 pkt 216 departure
+at 30.622418 pkt 221 arrival
+at 30.637251 pkt 217 departure
+at 30.663743 pkt 222 arrival
+at 30.688651 pkt release
+at 30.805182 pkt release
+at 30.815075 pkt release
+at 30.826160 pkt release
+at 30.897925 pkt release
+at 30.927008 pkt 218 departure
+at 30.983913 pkt 219 departure
+at 30.990677 pkt 220 departure
+at 31.102104 pkt 221 departure
+at 31.209300 pkt 222 departure
+at 31.286850 pkt 223 arrival
+at 31.299146 pkt 224 arrival
+at 31.331352 pkt 223 departure
+at 31.407248 pkt 225 arrival
+at 31.430250 pkt 226 arrival
+at 31.503364 pkt 224 departure
+at 31.508884 pkt 227 arrival
+at 31.539081 pkt 228 arrival
+at 31.627154 pkt 229 arrival
+at 31.822244 pkt release
+at 31.987864 pkt 225 departure
+at 32.034042 pkt 226 departure
+at 32.082521 pkt 227 departure
+at 32.098208 pkt 230 arrival
+at 32.216444 pkt 228 departure
+at 32.306003 pkt 231 arrival
+at 32.325717 pkt 229 departure
+at 32.569249 pkt 230 departure
+at 32.624072 pkt 231 departure
+at 32.793666 pkt 232 arrival
+at 32.887244 pkt 232 departure
+at 33.010635 pkt 233 arrival
+at 33.037831 pkt 233 departure
+at 33.064465 pkt 234 arrival
+at 33.074736 pkt 235 arrival
+at 33.167654 pkt 236 arrival
+at 33.199663 pkt 237 arrival
+at 33.313860 pkt 238 arrival
+at 33.361541 pkt release
+at 33.390069 pkt 234 departure
+at 33.694538 pkt 239 arrival
+at 33.718312 pkt 235 departure
+at 33.718932 pkt 236 departure
+at 33.746654 pkt 240 arrival
+at 33.795750 pkt 237 departure
+at 33.814582 pkt 241 arrival
+at 33.826901 pkt 242 arrival
+at 33.832227 pkt release
+at 33.865924 pkt 238 departure
+at 33.966880 pkt 243 arrival
+at 34.008861 pkt 239 departure
+at 34.126319 pkt 244 arrival
+at 34.220711 pkt release
+at 34.277431 pkt release
+at 34.359423 pkt release
+at 34.368484 pkt release
+at 34.455836 pkt 240 departure
+at 34.467734 pkt 241 departure
+at 34.583423 pkt 245 arrival
+at 34.588473 pkt 246 arrival
+at 34.592698 pkt 242 departure
+at 34.712067 pkt 247 arrival
+at 34.792566 pkt 243 departure
+at 34.795406 pkt 248 arrival
+at 34.805403 pkt release
+at 34.869387 pkt 244 departure
+at 35.022442 pkt 245 departure
+at 35.036899 pkt 246 departure
+at 35.039535 pkt 249 arrival
+at 35.057206 pkt 250 arrival
+at 35.090964 pkt 251 arrival
+at 35.103043 pkt 247 departure
+at 35.125893 pkt 252 arrival
+at 35.212204 pkt 248 departure
+at 35.310783 pkt 249 departure
+at 35.462370 pkt 253 arrival
+at 35.512804 pkt 250 departure
+at 35.753863 pkt 251 departure
+at 35.767639 pkt 252 departure
+at 35.876299 pkt 254 arrival
+at 35.897866 pkt 255 arrival
+at 35.958814 pkt 256 arrival
+at 35.983620 pkt 257 arrival
+at 36.010472 pkt release
+at 36.035584 pkt 253 departure
+at 36.187047 pkt 254 departure
+at 36.195277 pkt 258 arrival
+at 36.212885 pkt 259 arrival
+at 36.276287 pkt release
+at 36.377702 pkt release
+at 36.493023 pkt 255 departure
+at 36.600999 pkt 256 departure
+at 36.611341 pkt 257 departure
+at 36.632806 pkt 260 arrival
+at 36.637546 pkt 261 arrival
+at 36.645296 pkt 262 arrival
+at 36.694214 pkt release
+at 36.706924 pkt release
+at 36.773191 pkt 258 departure
+at 36.911793 pkt 259 departure
+at 36.946993 pkt 260 departure
+at 36.976547 pkt 263 arrival
+at 37.000276 pkt 264 arrival
+at 37.029174 pkt 265 arrival
+at 37.030649 pkt 261 departure
+at 37.045497 pkt 266 arrival
+at 37.069780 pkt release
+at 37.131596 pkt release
+at 37.143155 pkt release
+at 37.280561 pkt release
+at 37.295547 pkt 262 departure
+at 37.351970 pkt 267 arrival
+at 37.467992 pkt release
+at 37.502853 pkt 263 departure
+at 37.515667 pkt 268 arrival
+at 37.545528 pkt release
+at 37.612357 pkt 264 departure
+at 37.674485 pkt 269 arrival
+at 37.756328 pkt release
+at 37.941946 pkt 265 departure
+at 38.029996 pkt 266 departure
+at 38.272282 pkt 270 arrival
+at 38.322698 pkt 267 departure
+at 38.333079 pkt 271 arrival
+at 38.374157 pkt 272 arrival
+at 38.484092 pkt release
+at 38.496185 pkt 268 departure
+at 38.513330 pkt 269 departure
+at 38.540118 pkt 270 departure
+at 38.621830 pkt 271 departure
+at 38.658318 pkt 272 departure
+at 38.661565 pkt 273 arrival
+at 38.771526 pkt 273 departure
+at 38.784540 pkt 274 arrival
+at 38.811974 pkt 275 arrival
+at 38.871160 pkt 276 arrival
+at 38.940852 pkt 274 departure
+at 39.004129 pkt 277 arrival
+at 39.027109 pkt 275 departure
+at 39.038171 pkt 276 departure
+at 39.075576 pkt 278 arrival
+at 39.202785 pkt 277 departure
+at 39.229982 pkt 279 arrival
+at 39.304220 pkt 280 arrival
+at 39.325563 pkt 281 arrival
+at 39.343251 pkt 282 arrival
+at 39.454148 pkt release
+at 39.465099 pkt 278 departure
+at 39.512770 pkt 283 arrival
+at 39.519794 pkt 279 departure
+at 39.525822 pkt 284 arrival
+at 39.588979 pkt release
+at 39.714490 pkt 280 departure
+at 39.742144 pkt 285 arrival
+at 39.851852 pkt release
+at 39.865549 pkt release
+at 39.897522 pkt release
+at 39.941500 pkt release
+at 39.967615 pkt release
+at 40.112095 pkt 281 departure
+at 40.165857 pkt 286 arrival
+at 40.175021 pkt release
+at 40.273499 pkt 282 departure
+at 40.305147 pkt 287 arrival
+at 40.344938 pkt release
+at 40.388039 pkt release
+at 40.598209 pkt release
+at 40.628795 pkt 283 departure
+at 40.645332 pkt 288 arrival
+at 40.669172 pkt 284 departure
+at 40.713085 pkt 289 arrival
+at 40.746190 pkt release
+at 40.874504 pkt release
+at 40.912039 pkt 285 departure
+at 40.924046 pkt 286 departure
+at 40.988131 pkt 290 arrival
+at 41.008761 pkt 287 departure
+at 41.019137 pkt 288 departure
+at 41.068381 pkt 289 departure
+at 41.096874 pkt 290 departure
+at 41.112913 pkt 291 arrival
+at 41.133666 pkt 292 arrival
+at 41.234488 pkt 291 departure
+at 41.322054 pkt 293 arrival
+at 41.362865 pkt 294 arrival
+at 41.384822 pkt 292 departure
+at 41.388176 pkt 293 departure
+at 41.526668 pkt 294 departure
+at 41.642333 pkt 295 arrival
+at 41.714428 pkt 296 arrival
+at 41.722991 pkt 295 departure
+at 41.791237 pkt 296 departure
+at 41.993073 pkt 297 arrival
+at 41.995325 pkt 298 arrival
+at 42.031314 pkt 297 departure
+at 42.035681 pkt 299 arrival
+at 42.038498 pkt 298 departure
+at 42.082555 pkt 299 departure
+at 42.240481 pkt 300 arrival
+at 42.243447 pkt 301 arrival
+at 42.258447 pkt 302 arrival
+at 42.272277 pkt 303 arrival
+at 42.317592 pkt 300 departure
+at 42.417385 pkt 304 arrival
+at 42.427130 pkt 301 departure
+at 42.604712 pkt 305 arrival
+at 42.616351 pkt 306 arrival
+at 42.684113 pkt 302 departure
+at 42.712461 pkt 307 arrival
+at 42.753221 pkt 303 departure
+at 42.851857 pkt 304 departure
+at 42.869888 pkt 308 arrival
+at 42.902564 pkt 305 departure
+at 42.902877 pkt 309 arrival
+at 42.955789 pkt 306 departure
+at 43.014824 pkt 310 arrival
+at 43.050728 pkt 311 arrival
+at 43.256251 pkt 307 departure
+at 43.276220 pkt 308 departure
+at 43.422372 pkt 312 arrival
+at 43.439818 pkt 309 departure
+at 43.450515 pkt 313 arrival
+at 43.558173 pkt 314 arrival
+at 43.628106 pkt 310 departure
+at 43.628559 pkt 311 departure
+at 43.661220 pkt 312 departure
+at 43.755475 pkt 313 departure
+at 43.772403 pkt 315 arrival
+at 43.777024 pkt 314 departure
+at 43.784430 pkt 316 arrival
+at 43.858966 pkt 317 arrival
+at 43.860550 pkt 318 arrival
+at 43.888195 pkt 319 arrival
+at 43.926132 pkt release
+at 43.938275 pkt release
+at 44.059368 pkt 315 departure
+at 44.131500 pkt 320 arrival
+at 44.379646 pkt 316 departure
+at 44.539548 pkt 321 arrival
+at 44.636775 pkt 317 departure
+at 44.753191 pkt 318 departure
+at 44.793115 pkt 319 departure
+at 44.806348 pkt 320 departure
+at 44.810798 pkt 321 departure
+at 44.896868 pkt 322 arrival
+at 44.931855 pkt 323 arrival
+at 45.104305 pkt 324 arrival
+at 45.124447 pkt 322 departure
+at 45.195395 pkt 323 departure
+at 45.365276 pkt 325 arrival
+at 45.397195 pkt 324 departure
+at 45.464721 pkt 325 departure
+at 45.502995 pkt 326 arrival
+at 45.531703 pkt 326 departure
+at 45.675447 pkt 327 arrival
+at 45.677831 pkt 328 arrival
+at 45.880773 pkt 329 arrival
+at 45.921408 pkt 327 departure
+at 45.927387 pkt 330 arrival
+at 46.236152 pkt 331 arrival
+at 46.294935 pkt 332 arrival
+at 46.319546 pkt release
+at 46.327633 pkt 328 departure
+at 46.434744 pkt 333 arrival
+at 46.501215 pkt 329 departure
+at 46.517108 pkt 330 departure
+at 46.521735 pkt 331 departure
+at 46.587474 pkt 332 departure
+at 46.594632 pkt 334 arrival
+at 46.808888 pkt 333 departure
+at 46.857696 pkt 335 arrival
+at 46.901305 pkt 336 arrival
+at 46.935788 pkt 337 arrival
+at 46.988606 pkt 334 departure
+at 47.057489 pkt 335 departure
+at 47.097091 pkt 336 departure
+at 47.102431 pkt 337 departure
+at 47.123071 pkt 338 arrival
+at 47.244304 pkt 338 departure
+at 47.478702 pkt 339 arrival
+at 47.509138 pkt 340 arrival
+at 47.531237 pkt 341 arrival
+at 47.541677 pkt 339 departure
+at 47.598857 pkt 342 arrival
+at 47.614126 pkt 340 departure
+at 47.814240 pkt 343 arrival
+at 47.887559 pkt 341 departure
+at 47.940603 pkt 344 arrival
+at 47.940774 pkt 342 departure
+at 47.945712 pkt 343 departure
+at 48.028943 pkt 344 departure
+at 48.184615 pkt 345 arrival
+at 48.215056 pkt 346 arrival
+at 48.293553 pkt 345 departure
+at 48.429910 pkt 347 arrival
+at 48.479121 pkt 348 arrival
+at 48.512616 pkt 349 arrival
+at 48.647082 pkt 350 arrival
+at 48.695419 pkt 346 departure
+at 48.745818 pkt 351 arrival
+at 48.755508 pkt 347 departure
+at 48.799758 pkt 352 arrival
+at 48.857847 pkt 348 departure
+at 48.870101 pkt 349 departure
+at 48.982852 pkt 353 arrival
+at 49.043352 pkt 354 arrival
+at 49.058077 pkt release
+at 49.081983 pkt release
+at 49.207436 pkt release
+at 49.274809 pkt release
+at 49.314361 pkt 350 departure
+at 49.405512 pkt 355 arrival
+at 49.433369 pkt 351 departure
+at 49.468628 pkt 352 departure
+at 49.511782 pkt 356 arrival
+at 49.669877 pkt 357 arrival
+at 49.731431 pkt release
+at 49.788317 pkt release
+at 49.829194 pkt release
+at 49.858167 pkt release
+at 49.939372 pkt release
+at 49.951223 pkt 353 departure
+at 50.029518 pkt 358 arrival
+at 50.061423 pkt 354 departure
+at 50.077266 pkt 355 departure
+at 50.128536 pkt 356 departure
+at 50.148190 pkt 357 departure
+at 50.162504 pkt 359 arrival
+at 50.202002 pkt 360 arrival
+at 50.228558 pkt 361 arrival
+at 50.379049 pkt 362 arrival
+at 50.402969 pkt release
+at 50.415073 pkt 358 departure
+at 50.449093 pkt 359 departure
+at 50.484343 pkt 363 arrival
+at 50.509705 pkt 364 arrival
+at 50.627879 pkt 360 departure
+at 50.678378 pkt 361 departure
+at 50.735924 pkt 362 departure
+at 50.747010 pkt 363 departure
+at 50.995852 pkt 364 departure
+at 51.131654 pkt 365 arrival
+at 51.211399 pkt 366 arrival
+at 51.433240 pkt 367 arrival
+at 51.551575 pkt 368 arrival
+at 51.687723 pkt 365 departure
+at 51.723884 pkt 366 departure
+at 51.744471 pkt 369 arrival
+at 52.018258 pkt 370 arrival
+at 52.041549 pkt 367 departure
+at 52.078700 pkt 371 arrival
+at 52.119975 pkt 368 departure
+at 52.176451 pkt 369 departure
+at 52.193337 pkt 370 departure
+at 52.287482 pkt 372 arrival
+at 52.309078 pkt 371 departure
+at 52.359945 pkt 372 departure
+at 52.390478 pkt 373 arrival
+at 52.475533 pkt 374 arrival
+at 52.515605 pkt 375 arrival
+at 52.523797 pkt 373 departure
+at 52.528976 pkt 376 arrival
+at 52.540217 pkt 374 departure
+at 52.599983 pkt 377 arrival
+at 52.659811 pkt 378 arrival
+at 52.692085 pkt 379 arrival
+at 52.699248 pkt release
+at 52.821520 pkt release
+at 52.829159 pkt 375 departure
+at 52.866073 pkt 376 departure
+at 52.898858 pkt 380 arrival
+at 52.948315 pkt 381 arrival
+at 53.021572 pkt release
+at 53.072216 pkt release
+at 53.135457 pkt release
+at 53.170125 pkt release
+at 53.220940 pkt 377 departure
+at 53.338397 pkt 378 departure
+at 53.349182 pkt 382 arrival
+at 53.375320 pkt 379 departure
+at 53.418430 pkt 383 arrival
+at 53.593842 pkt 380 departure
+at 53.648276 pkt 381 departure
+at 53.699411 pkt 384 arrival
+at 53.767202 pkt 382 departure
+at 53.767388 pkt 383 departure
+at 53.776167 pkt 384 departure
+at 53.978765 pkt 385 arrival
+at 54.020843 pkt 386 arrival
+at 54.117352 pkt 387 arrival
+at 54.129291 pkt 385 departure
+at 54.165295 pkt 388 arrival
+at 54.189176 pkt 389 arrival
+at 54.213325 pkt 386 departure
+at 54.227311 pkt 390 arrival
+at 54.419763 pkt 387 departure
+at 54.446372 pkt 388 departure
+at 54.491180 pkt 389 departure
+at 54.505256 pkt 391 arrival
+at 54.640514 pkt 390 departure
+at 54.642303 pkt 392 arrival
+at 54.665056 pkt 393 arrival
+at 54.699489 pkt 394 arrival
+at 54.788653 pkt 391 departure
+at 54.837887 pkt 392 departure
+at 54.867465 pkt 393 departure
+at 54.878580 pkt 394 departure
+at 55.012808 pkt 395 arrival
+at 55.099139 pkt 396 arrival
+at 55.144564 pkt 397 arrival
+at 55.292642 pkt 395 departure
+at 55.347438 pkt 398 arrival
+at 55.422488 pkt 396 departure
+at 55.485642 pkt 397 departure
+at 55.538219 pkt 399 arrival
+at 55.684798 pkt 400 arrival
+at 55.707145 pkt 398 departure
+at 55.727961 pkt 401 arrival
+at 55.819758 pkt 399 departure
+at 55.831307 pkt 400 departure
+at 55.846012 pkt 402 arrival
+at 55.846372 pkt 401 departure
+at 55.852283 pkt 402 departure
+at 55.864200 pkt 403 arrival
+at 55.869398 pkt 404 arrival
+at 55.895561 pkt 405 arrival
+at 55.906710 pkt 406 arrival
+at 55.922827 pkt 407 arrival
+at 56.041316 pkt release
+at 56.064383 pkt 403 departure
+at 56.120754 pkt 404 departure
+at 56.199409 pkt 408 arrival
+at 56.203131 pkt 405 departure
+at 56.243500 pkt 406 departure
+at 56.244790 pkt 407 departure
+at 56.244859 pkt 409 arrival
+at 56.247660 pkt 408 departure
+at 56.327402 pkt 410 arrival
+at 56.345357 pkt 409 departure
+at 56.452202 pkt 411 arrival
+at 56.462333 pkt 412 arrival
+at 56.483161 pkt 410 departure
+at 56.491382 pkt 413 arrival
+at 56.498682 pkt 414 arrival
+at 56.519659 pkt 415 arrival
+at 56.551420 pkt 411 departure
+at 56.589448 pkt 416 arrival
+at 56.603252 pkt 412 departure
+at 56.611935 pkt 417 arrival
+at 56.700954 pkt 413 departure
+at 56.714899 pkt 418 arrival
+at 56.818092 pkt release
+at 56.856319 pkt release
+at 56.917583 pkt release
+at 57.152777 pkt 414 departure
+at 57.170241 pkt 419 arrival
+at 57.259002 pkt release
+at 57.347696 pkt release
+at 57.482689 pkt 415 departure
+at 57.489456 pkt 416 departure
+at 57.496399 pkt 417 departure
+at 57.499677 pkt 418 departure
+at 57.630629 pkt 419 departure
+at 57.642543 pkt 420 arrival
+at 57.657979 pkt 420 departure
+at 58.054701 pkt 421 arrival
+at 58.107275 pkt 422 arrival
+at 58.114409 pkt 423 arrival
+at 58.153750 pkt 424 arrival
+at 58.207703 pkt 425 arrival
+at 58.224972 pkt release
+at 58.303563 pkt release
+at 58.365157 pkt 421 departure
+at 58.646047 pkt 422 departure
+at 58.647109 pkt 426 arrival
+at 58.724657 pkt 423 departure
+at 58.746905 pkt 424 departure
+at 58.749167 pkt 427 arrival
+at 58.874206 pkt 425 departure
+at 58.931339 pkt 426 departure
+at 59.122746 pkt 427 departure
+at 59.174642 pkt 428 arrival
+at 59.225306 pkt 429 arrival
+at 59.234544 pkt 428 departure
+at 59.242086 pkt 429 departure
+at 59.285614 pkt 430 arrival
+at 59.363756 pkt 431 arrival
+at 59.419626 pkt 432 arrival
+at 59.446155 pkt 433 arrival
+at 59.479900 pkt 434 arrival
+at 59.633830 pkt release
+at 59.655451 pkt 430 departure
+at 59.681125 pkt 435 arrival
+at 59.742030 pkt 431 departure
+at 59.745610 pkt 436 arrival
+at 59.811077 pkt 432 departure
+at 59.860008 pkt 437 arrival
+at 59.877869 pkt release
+at 59.884565 pkt release
+at 59.924015 pkt 433 departure
+at 59.952503 pkt 438 arrival
+at 59.959368 pkt release
+at 59.973571 pkt release
+at 59.996612 pkt release
+at 60.126673 pkt release
+at 60.154080 pkt 434 departure
+at 60.177254 pkt 439 arrival
+at 60.182957 pkt release
+at 60.217684 pkt 435 departure
+at 60.257876 pkt 436 departure
+at 60.304958 pkt 440 arrival
+at 60.315128 pkt 441 arrival
+at 60.319963 pkt 437 departure
+at 60.322190 pkt 438 departure
+at 60.353440 pkt 442 arrival
+at 60.362786 pkt 443 arrival
+at 60.386207 pkt 439 departure
+at 60.450790 pkt 444 arrival
+at 60.451700 pkt release
+at 60.479090 pkt 440 departure
+at 60.495975 pkt 445 arrival
+at 60.543051 pkt release
+at 60.633783 pkt release
+at 60.641353 pkt 441 departure
+at 60.670317 pkt 442 departure
+at 60.727352 pkt 446 arrival
+at 60.769995 pkt 447 arrival
+at 60.821390 pkt 443 departure
+at 60.953793 pkt 448 arrival
+at 60.996963 pkt 444 departure
+at 60.999066 pkt 449 arrival
+at 61.086332 pkt release
+at 61.132630 pkt release
+at 61.142064 pkt 445 departure
+at 61.220493 pkt 450 arrival
+at 61.232588 pkt 446 departure
+at 61.236506 pkt 451 arrival
+at 61.292472 pkt 447 departure
+at 61.372588 pkt 448 departure
+at 61.518382 pkt 449 departure
+at 61.631856 pkt 452 arrival
+at 61.704175 pkt 453 arrival
+at 61.714425 pkt 450 departure
+at 61.726640 pkt 451 departure
+at 61.729951 pkt 454 arrival
+at 61.917740 pkt 452 departure
+at 61.931152 pkt 453 departure
+at 61.942863 pkt 454 departure
+at 62.021068 pkt 455 arrival
+at 62.053838 pkt 455 departure
+at 62.089328 pkt 456 arrival
+at 62.144526 pkt 457 arrival
+at 62.189398 pkt 458 arrival
+at 62.258413 pkt 456 departure
+at 62.296940 pkt 459 arrival
+at 62.320701 pkt 460 arrival
+at 62.352079 pkt 457 departure
+at 62.387360 pkt 461 arrival
+at 62.430322 pkt 462 arrival
+at 62.577779 pkt release
+at 62.605652 pkt release
+at 62.670263 pkt release
+at 62.714000 pkt 458 departure
+at 62.719976 pkt 459 departure
+at 62.737027 pkt 460 departure
+at 62.740342 pkt 461 departure
+at 62.792983 pkt 463 arrival
+at 62.907021 pkt 464 arrival
+at 63.090550 pkt 465 arrival
+at 63.107946 pkt 466 arrival
+at 63.193722 pkt release
+at 63.354434 pkt 462 departure
+at 63.370140 pkt 463 departure
+at 63.454305 pkt 464 departure
+at 63.466877 pkt 465 departure
+at 63.475841 pkt 466 departure
+at 63.589703 pkt 467 arrival
+at 63.668253 pkt 468 arrival
+at 63.682707 pkt 467 departure
+at 63.812602 pkt 468 departure
+at 63.825202 pkt 469 arrival
+at 63.918135 pkt 470 arrival
+at 63.960609 pkt 471 arrival
+at 63.969819 pkt 469 departure
+at 63.979718 pkt 472 arrival
+at 64.050633 pkt 473 arrival
+at 64.100861 pkt 470 departure
+at 64.150394 pkt 471 departure
+at 64.177928 pkt 472 departure
+at 64.285421 pkt 474 arrival
+at 64.413719 pkt 475 arrival
+at 64.581379 pkt 473 departure
+at 64.680954 pkt 476 arrival
+at 64.767746 pkt 474 departure
+at 64.786117 pkt 475 departure
+at 64.826562 pkt 476 departure
+at 64.844392 pkt 477 arrival
+at 64.896867 pkt 478 arrival
+at 64.923497 pkt 479 arrival
+at 64.960817 pkt 480 arrival
+at 65.249056 pkt 481 arrival
+at 65.291428 pkt 477 departure
+at 65.325766 pkt 478 departure
+at 65.347758 pkt 479 departure
+at 65.349171 pkt 480 departure
+at 65.405928 pkt 481 departure
+at 65.410559 pkt 482 arrival
+at 65.451095 pkt 483 arrival
+at 65.467892 pkt 484 arrival
+at 65.531469 pkt 482 departure
+at 65.571820 pkt 485 arrival
+at 65.595194 pkt 486 arrival
+at 65.609663 pkt 487 arrival
+at 65.625639 pkt release
+at 65.714445 pkt release
+at 65.831164 pkt release
+at 65.866930 pkt 483 departure
+at 65.879042 pkt 484 departure
+at 66.017149 pkt 485 departure
+at 66.165525 pkt 486 departure
+at 66.239210 pkt 488 arrival
+at 66.333932 pkt 487 departure
+at 66.349199 pkt 488 departure
+at 66.580773 pkt 489 arrival
+at 66.732139 pkt 489 departure
+at 66.738808 pkt 490 arrival
+at 66.763158 pkt 490 departure
+at 66.788448 pkt 491 arrival
+at 66.814918 pkt 492 arrival
+at 66.877428 pkt 491 departure
+at 66.918638 pkt 492 departure
+at 66.933388 pkt 493 arrival
+at 66.951113 pkt 493 departure
+at 67.104160 pkt 494 arrival
+at 67.128821 pkt 494 departure
+at 67.130589 pkt 495 arrival
+at 67.182237 pkt 496 arrival
+at 67.184190 pkt 495 departure
+at 67.201068 pkt 496 departure
+at 67.285289 pkt 497 arrival
+at 67.375869 pkt 497 departure
+at 67.540828 pkt 498 arrival
+at 67.569804 pkt 498 departure
+at 67.675998 pkt 499 arrival
+at 67.677581 pkt 499 departure
+at 67.716847 pkt 500 arrival
+at 67.731141 pkt 501 arrival
+at 67.833236 pkt 502 arrival
+at 67.856738 pkt 503 arrival
+at 67.876208 pkt 504 arrival
+at 67.907913 pkt 500 departure
+at 67.934178 pkt 501 departure
+at 67.955667 pkt 505 arrival
+at 67.970172 pkt 506 arrival
+at 67.986616 pkt 502 departure
+at 68.008897 pkt 507 arrival
+at 68.052740 pkt release
+at 68.172098 pkt release
+at 68.192745 pkt release
+at 68.231893 pkt 503 departure
+at 68.249002 pkt 508 arrival
+at 68.283285 pkt release
+at 68.289335 pkt release
+at 68.345147 pkt 504 departure
+at 68.365163 pkt 505 departure
+at 68.441676 pkt 509 arrival
+at 68.476688 pkt 506 departure
+at 68.477756 pkt 507 departure
+at 68.533513 pkt 510 arrival
+at 68.554617 pkt 511 arrival
+at 68.654495 pkt 508 departure
+at 68.672715 pkt 512 arrival
+at 68.767063 pkt 513 arrival
+at 68.838621 pkt release
+at 68.877460 pkt 509 departure
+at 68.970319 pkt 510 departure
+at 68.998651 pkt 511 departure
+at 69.141653 pkt 514 arrival
+at 69.166308 pkt 515 arrival
+at 69.204364 pkt 512 departure
+at 69.209377 pkt 513 departure
+at 69.218335 pkt 516 arrival
+at 69.263717 pkt 514 departure
+at 69.324700 pkt 517 arrival
+at 69.365240 pkt 518 arrival
+at 69.442890 pkt 519 arrival
+at 69.526587 pkt release
+at 69.550730 pkt release
+at 69.557688 pkt release
+at 69.650935 pkt release
+at 69.665887 pkt release
+at 69.683999 pkt release
+at 69.717094 pkt release
+at 69.749722 pkt 515 departure
+at 69.778421 pkt 516 departure
+at 69.790944 pkt 520 arrival
+at 69.798448 pkt 521 arrival
+at 69.801863 pkt release
+at 69.836779 pkt release
+at 69.892607 pkt release
+at 69.908794 pkt release
+at 69.930984 pkt 517 departure
+at 69.971642 pkt 518 departure
+at 70.023729 pkt 522 arrival
+at 70.033469 pkt 519 departure
+at 70.108633 pkt 520 departure
+at 70.141653 pkt 521 departure
+at 70.207552 pkt 523 arrival
+at 70.211515 pkt 524 arrival
+at 70.367130 pkt 522 departure
+at 70.375176 pkt 523 departure
+at 70.383568 pkt 524 departure
+at 70.607991 pkt 525 arrival
+at 70.621670 pkt 526 arrival
+at 70.718646 pkt 525 departure
+at 70.725832 pkt 527 arrival
+at 70.741215 pkt 528 arrival
+at 70.780980 pkt 529 arrival
+at 70.829438 pkt 526 departure
+at 70.835339 pkt 530 arrival
+at 70.860995 pkt 527 departure
+at 70.928753 pkt 528 departure
+at 70.959570 pkt 529 departure
+at 71.039302 pkt 531 arrival
+at 71.183054 pkt 530 departure
+at 71.195588 pkt 531 departure
+at 71.203251 pkt 532 arrival
+at 71.214684 pkt 533 arrival
+at 71.326249 pkt 534 arrival
+at 71.365502 pkt 535 arrival
+at 71.435861 pkt 536 arrival
+at 71.491203 pkt 532 departure
+at 71.504288 pkt 533 departure
+at 71.534363 pkt 534 departure
+at 71.602559 pkt 535 departure
+at 71.602688 pkt 537 arrival
+at 71.633377 pkt 536 departure
+at 71.701560 pkt 538 arrival
+at 71.956298 pkt 539 arrival
+at 71.984286 pkt 540 arrival
+at 72.124035 pkt 537 departure
+at 72.257141 pkt 541 arrival
+at 72.289000 pkt 542 arrival
+at 72.347619 pkt release
+at 72.396502 pkt 538 departure
+at 72.516957 pkt 543 arrival
+at 72.547482 pkt release
+at 72.568796 pkt release
+at 72.594653 pkt release
+at 72.610810 pkt 539 departure
+at 72.647966 pkt 544 arrival
+at 72.668023 pkt release
+at 72.687073 pkt 540 departure
+at 72.728343 pkt 545 arrival
+at 72.737703 pkt 541 departure
+at 72.813815 pkt 546 arrival
+at 72.851592 pkt release
+at 72.948312 pkt release
+at 73.034642 pkt 542 departure
+at 73.186927 pkt 547 arrival
+at 73.191660 pkt release
+at 73.325659 pkt 543 departure
+at 73.377148 pkt 544 departure
+at 73.378213 pkt 548 arrival
+at 73.378366 pkt 545 departure
+at 73.381931 pkt 549 arrival
+at 73.394259 pkt 546 departure
+at 73.406512 pkt 547 departure
+at 73.427900 pkt 550 arrival
+at 73.585824 pkt 551 arrival
+at 73.616424 pkt 548 departure
+at 73.662456 pkt 552 arrival
+at 73.728837 pkt 553 arrival
+at 73.756432 pkt release
+at 73.768004 pkt release
+at 73.846475 pkt release
+at 73.920039 pkt 549 departure
+at 73.983121 pkt 554 arrival
+at 73.992561 pkt release
+at 73.995441 pkt release
+at 74.012534 pkt release
+at 74.029665 pkt 550 departure
+at 74.129126 pkt 555 arrival
+at 74.171306 pkt release
+at 74.247859 pkt 551 departure
+at 74.311887 pkt 552 departure
+at 74.347999 pkt 556 arrival
+at 74.393360 pkt 553 departure
+at 74.399110 pkt 557 arrival
+at 74.533845 pkt 558 arrival
+at 74.580826 pkt release
+at 74.593092 pkt 554 departure
+at 74.606343 pkt 555 departure
+at 74.662395 pkt 559 arrival
+at 74.690771 pkt 556 departure
+at 74.788834 pkt 560 arrival
+at 74.860679 pkt 561 arrival
+at 74.862356 pkt 557 departure
+at 74.892217 pkt 558 departure
+at 74.927945 pkt 562 arrival
+at 74.994114 pkt 563 arrival
+at 74.995427 pkt release
+at 75.015549 pkt release
+at 75.064915 pkt release
+at 75.066541 pkt 559 departure
+at 75.091590 pkt 564 arrival
+at 75.101799 pkt release
+at 75.109061 pkt release
+at 75.135862 pkt release
+at 75.167924 pkt 560 departure
+at 75.173759 pkt 565 arrival
+at 75.202580 pkt 561 departure
+at 75.251405 pkt 566 arrival
+at 75.266155 pkt 562 departure
+at 75.280728 pkt 567 arrival
+at 75.353620 pkt release
+at 75.486381 pkt 563 departure
+at 75.499239 pkt 568 arrival
+at 75.509541 pkt 564 departure
+at 75.545068 pkt 565 departure
+at 75.603514 pkt 566 departure
+at 75.731517 pkt 569 arrival
+at 75.793023 pkt 567 departure
+at 75.940189 pkt 568 departure
+at 75.961410 pkt 570 arrival
+at 75.977430 pkt 571 arrival
+at 75.991018 pkt 569 departure
+at 76.000016 pkt 570 departure
+at 76.070496 pkt 571 departure
+at 76.175049 pkt 572 arrival
+at 76.214771 pkt 572 departure
+at 76.271957 pkt 573 arrival
+at 76.473303 pkt 573 departure
+at 76.519242 pkt 574 arrival
+at 76.554305 pkt 574 departure
+at 76.574378 pkt 575 arrival
+at 76.614902 pkt 576 arrival
+at 76.620297 pkt 575 departure
+at 76.692840 pkt 576 departure
+at 76.795690 pkt 577 arrival
+at 76.831204 pkt 577 departure
+at 76.896091 pkt 578 arrival
+at 76.904670 pkt 578 departure
+at 77.057701 pkt 579 arrival
+at 77.259799 pkt 579 departure
+at 77.317918 pkt 580 arrival
+at 77.367746 pkt 581 arrival
+at 77.431045 pkt 582 arrival
+at 77.486147 pkt 583 arrival
+at 77.486151 pkt 580 departure
+at 77.501246 pkt 584 arrival
+at 77.532154 pkt 581 departure
+at 77.550923 pkt 585 arrival
+at 77.723963 pkt 582 departure
+at 77.762682 pkt 583 departure
+at 77.777335 pkt 584 departure
+at 77.861799 pkt 585 departure
+at 78.108659 pkt 586 arrival
+at 78.155568 pkt 586 departure
+at 78.164391 pkt 587 arrival
+at 78.172846 pkt 587 departure
+at 78.380267 pkt 588 arrival
+at 78.420134 pkt 589 arrival
+at 78.457541 pkt 588 departure
+at 78.749611 pkt 589 departure
+at 78.775047 pkt 590 arrival
+at 78.937061 pkt 591 arrival
+at 78.987481 pkt 592 arrival
+at 79.056125 pkt 590 departure
+at 79.111390 pkt 593 arrival
+at 79.220283 pkt 591 departure
+at 79.247734 pkt 592 departure
+at 79.265693 pkt 593 departure
+at 79.342788 pkt 594 arrival
+at 79.384142 pkt 595 arrival
+at 79.385884 pkt 594 departure
+at 79.445410 pkt 595 departure
+at 79.451046 pkt 596 arrival
+at 79.506607 pkt 597 arrival
+at 79.562132 pkt 598 arrival
+at 79.569255 pkt 599 arrival
+at 79.641522 pkt 600 arrival
+at 79.691175 pkt 596 departure
+at 79.979226 pkt 601 arrival
+at 79.986146 pkt release
+at 80.109391 pkt release
+at 80.173354 pkt release
+at 80.201342 pkt 597 departure
+at 80.235199 pkt 602 arrival
+at 80.307791 pkt 598 departure
+at 80.320467 pkt 599 departure
+at 80.328360 pkt 600 departure
+at 80.391474 pkt 603 arrival
+at 80.421174 pkt 601 departure
+at 80.450814 pkt 602 departure
+at 80.479902 pkt 603 departure
+at 80.665506 pkt 604 arrival
+at 80.677805 pkt 605 arrival
+at 80.684691 pkt 604 departure
+at 80.708618 pkt 605 departure
+at 80.941650 pkt 606 arrival
+at 80.956764 pkt 606 departure
+at 81.089011 pkt 607 arrival
+at 81.175902 pkt 608 arrival
+at 81.181762 pkt 607 departure
+at 81.197120 pkt 608 departure
+at 81.544407 pkt 609 arrival
+at 81.568812 pkt 610 arrival
+at 81.647869 pkt 611 arrival
+at 81.673605 pkt 609 departure
+at 81.731855 pkt 612 arrival
+at 81.758135 pkt 613 arrival
+at 81.770793 pkt 614 arrival
+at 81.822414 pkt release
+at 81.872470 pkt 610 departure
+at 81.915288 pkt 611 departure
+at 82.056590 pkt 612 departure
+at 82.079785 pkt 613 departure
+at 82.103493 pkt 615 arrival
+at 82.161852 pkt 614 departure
+at 82.367698 pkt 616 arrival
+at 82.376519 pkt 617 arrival
+at 82.393797 pkt 618 arrival
+at 82.520661 pkt 615 departure
+at 82.598323 pkt 619 arrival
+at 82.605727 pkt 620 arrival
+at 82.646814 pkt 616 departure
+at 82.647336 pkt 621 arrival
+at 82.808085 pkt release
+at 82.814220 pkt release
+at 82.827353 pkt release
+at 82.868072 pkt release
+at 82.878287 pkt 617 departure
+at 82.893439 pkt 618 departure
+at 82.972702 pkt 619 departure
+at 82.978398 pkt 622 arrival
+at 83.078583 pkt 623 arrival
+at 83.119719 pkt 620 departure
+at 83.147015 pkt 624 arrival
+at 83.150376 pkt 625 arrival
+at 83.171031 pkt 621 departure
+at 83.202876 pkt 622 departure
+at 83.206178 pkt 626 arrival
+at 83.224733 pkt 623 departure
+at 83.250684 pkt 624 departure
+at 83.315648 pkt 627 arrival
+at 83.382939 pkt 625 departure
+at 83.443209 pkt 628 arrival
+at 83.454249 pkt 626 departure
+at 83.506178 pkt 629 arrival
+at 83.559916 pkt 627 departure
+at 83.659880 pkt 628 departure
+at 83.758770 pkt 629 departure
+at 83.797371 pkt 630 arrival
+at 83.812140 pkt 630 departure
+at 83.818770 pkt 631 arrival
+at 83.939521 pkt 632 arrival
+at 83.996401 pkt 631 departure
+at 84.027933 pkt 632 departure
+at 84.071564 pkt 633 arrival
+at 84.089036 pkt 634 arrival
+at 84.128813 pkt 635 arrival
+at 84.164277 pkt 633 departure
+at 84.274337 pkt 634 departure
+at 84.305342 pkt 636 arrival
+at 84.311586 pkt 635 departure
+at 84.339450 pkt 636 departure
+at 84.423769 pkt 637 arrival
+at 84.507898 pkt 638 arrival
+at 84.585147 pkt 639 arrival
+at 84.610177 pkt 637 departure
+at 84.652486 pkt 638 departure
+at 84.658333 pkt 640 arrival
+at 84.686105 pkt 639 departure
+at 84.697400 pkt 640 departure
+at 84.764800 pkt 641 arrival
+at 84.786308 pkt 642 arrival
+at 84.828320 pkt 641 departure
+at 84.857665 pkt 642 departure
+at 84.896591 pkt 643 arrival
+at 84.900904 pkt 643 departure
+at 84.922902 pkt 644 arrival
+at 84.942453 pkt 645 arrival
+at 85.030346 pkt 646 arrival
+at 85.066569 pkt 647 arrival
+at 85.102337 pkt 648 arrival
+at 85.176800 pkt 644 departure
+at 85.282871 pkt 645 departure
+at 85.289474 pkt 649 arrival
+at 85.297375 pkt 646 departure
+at 85.312178 pkt 650 arrival
+at 85.446187 pkt 651 arrival
+at 85.489495 pkt 647 departure
+at 85.520606 pkt 652 arrival
+at 85.600276 pkt 648 departure
+at 85.629517 pkt 653 arrival
+at 85.650406 pkt release
+at 85.701801 pkt release
+at 85.725055 pkt 649 departure
+at 85.731838 pkt 654 arrival
+at 85.837774 pkt release
+at 85.851008 pkt 650 departure
+at 85.872958 pkt 651 departure
+at 85.892076 pkt 655 arrival
+at 85.928047 pkt 656 arrival
+at 86.054927 pkt release
+at 86.089170 pkt 652 departure
+at 86.104708 pkt 657 arrival
+at 86.204145 pkt release
+at 86.224932 pkt release
+at 86.282325 pkt release
+at 86.355459 pkt release
+at 86.407637 pkt release
+at 86.496762 pkt release
+at 86.568811 pkt 653 departure
+at 86.640673 pkt 658 arrival
+at 86.695272 pkt release
+at 86.712123 pkt release
+at 86.721458 pkt 654 departure
+at 86.763353 pkt 659 arrival
+at 86.801895 pkt 655 departure
+at 86.828072 pkt 656 departure
+at 86.872275 pkt 660 arrival
+at 87.033469 pkt 661 arrival
+at 87.039478 pkt 657 departure
+at 87.249328 pkt 658 departure
+at 87.328574 pkt 659 departure
+at 87.403343 pkt 660 departure
+at 87.559083 pkt 661 departure
+at 87.748536 pkt 662 arrival
+at 87.794583 pkt 662 departure
+at 87.918704 pkt 663 arrival
+at 87.962639 pkt 663 departure
+at 88.079843 pkt 664 arrival
+at 88.096465 pkt 665 arrival
+at 88.102378 pkt 664 departure
+at 88.145687 pkt 665 departure
+at 88.265581 pkt 666 arrival
+at 88.290701 pkt 666 departure
+at 88.312197 pkt 667 arrival
+at 88.336873 pkt 668 arrival
+at 88.360762 pkt 669 arrival
+at 88.429814 pkt 670 arrival
+at 88.477883 pkt 671 arrival
+at 88.511005 pkt release
+at 88.527177 pkt 667 departure
+at 88.555149 pkt 668 departure
+at 88.632268 pkt 669 departure
+at 88.646396 pkt 672 arrival
+at 88.672578 pkt 670 departure
+at 88.830989 pkt 671 departure
+at 88.937035 pkt 672 departure
+at 88.958848 pkt 673 arrival
+at 88.980591 pkt 674 arrival
+at 89.020243 pkt 675 arrival
+at 89.083601 pkt 673 departure
+at 89.134551 pkt 676 arrival
+at 89.147303 pkt 674 departure
+at 89.179267 pkt 677 arrival
+at 89.295327 pkt 675 departure
+at 89.369200 pkt 678 arrival
+at 89.444446 pkt 676 departure
+at 89.444546 pkt 679 arrival
+at 89.478425 pkt 677 departure
+at 89.482378 pkt 680 arrival
+at 89.483369 pkt 681 arrival
+at 89.507919 pkt 678 departure
+at 89.556790 pkt 679 departure
+at 89.659966 pkt 682 arrival
+at 89.760709 pkt 683 arrival
+at 89.788616 pkt 680 departure
+at 89.941314 pkt 684 arrival
+at 89.957118 pkt 681 departure
+at 89.994314 pkt 682 departure
+at 90.025330 pkt 685 arrival
+at 90.063109 pkt 683 departure
+at 90.078655 pkt 686 arrival
+at 90.078923 pkt 684 departure
+at 90.130701 pkt 687 arrival
+at 90.168922 pkt 685 departure
+at 90.196906 pkt 686 departure
+at 90.214725 pkt 688 arrival
+at 90.514592 pkt 687 departure
+at 90.606812 pkt 689 arrival
+at 90.645895 pkt 688 departure
+at 90.710640 pkt 689 departure
+at 90.777898 pkt 690 arrival
+at 90.815223 pkt 690 departure
+at 90.947991 pkt 691 arrival
+at 91.009060 pkt 691 departure
+at 91.011080 pkt 692 arrival
+at 91.107027 pkt 692 departure
+at 91.125985 pkt 693 arrival
+at 91.154795 pkt 694 arrival
+at 91.468244 pkt 695 arrival
+at 91.544395 pkt 693 departure
+at 91.544467 pkt 696 arrival
+at 91.590398 pkt 697 arrival
+at 91.710006 pkt 698 arrival
+at 91.791817 pkt 694 departure
+at 92.068804 pkt 699 arrival
+at 92.093078 pkt release
+at 92.135942 pkt release
+at 92.142651 pkt release
+at 92.171703 pkt 695 departure
+at 92.211013 pkt 700 arrival
+at 92.217553 pkt release
+at 92.226537 pkt release
+at 92.235152 pkt release
+at 92.262900 pkt release
+at 92.283968 pkt 696 departure
+at 92.339693 pkt 701 arrival
+at 92.340613 pkt release
+at 92.549879 pkt release
+at 92.667076 pkt 697 departure
+at 92.671364 pkt 702 arrival
+at 92.717827 pkt 698 departure
+at 92.732043 pkt 703 arrival
+at 92.814643 pkt 699 departure
+at 92.821371 pkt 704 arrival
+at 92.830028 pkt 700 departure
+at 92.856405 pkt 701 departure
+at 92.935795 pkt 705 arrival
+at 92.988410 pkt 702 departure
+at 93.018785 pkt 706 arrival
+at 93.109183 pkt 707 arrival
+at 93.321690 pkt 703 departure
+at 93.376478 pkt 708 arrival
+at 93.445763 pkt release
+at 93.450171 pkt release
+at 93.513030 pkt 704 departure
+at 93.569627 pkt 709 arrival
+at 93.596107 pkt release
+at 93.623070 pkt 705 departure
+at 93.645154 pkt 706 departure
+at 93.723183 pkt 707 departure
+at 93.857120 pkt 708 departure
+at 93.886716 pkt 710 arrival
+at 93.892339 pkt 709 departure
+at 94.001104 pkt 710 departure
+at 94.072600 pkt 711 arrival
+at 94.081014 pkt 711 departure
+at 94.156041 pkt 712 arrival
+at 94.245060 pkt 713 arrival
+at 94.298172 pkt 714 arrival
+at 94.308518 pkt 712 departure
+at 94.348382 pkt 715 arrival
+at 94.405419 pkt 716 arrival
+at 94.521121 pkt 717 arrival
+at 94.589346 pkt release
+at 94.649160 pkt release
+at 94.649367 pkt release
+at 94.750540 pkt release
+at 94.751418 pkt 713 departure
+at 94.768137 pkt 718 arrival
+at 94.970304 pkt 714 departure
+at 94.979770 pkt 715 departure
+at 95.043537 pkt 719 arrival
+at 95.101563 pkt 716 departure
+at 95.239041 pkt 720 arrival
+at 95.266462 pkt 717 departure
+at 95.399301 pkt 718 departure
+at 95.408846 pkt 721 arrival
+at 95.433003 pkt 719 departure
+at 95.474777 pkt 720 departure
+at 95.514072 pkt 722 arrival
+at 95.698397 pkt 723 arrival
+at 95.744363 pkt 721 departure
+at 95.750557 pkt 724 arrival
+at 95.947838 pkt 722 departure
+at 95.972066 pkt 725 arrival
+at 95.998460 pkt 723 departure
+at 96.028279 pkt 724 departure
+at 96.068574 pkt 726 arrival
+at 96.108345 pkt 727 arrival
+at 96.127448 pkt 728 arrival
+at 96.209459 pkt 729 arrival
+at 96.273067 pkt release
+at 96.275691 pkt release
+at 96.285045 pkt 725 departure
+at 96.310566 pkt 730 arrival
+at 96.311895 pkt 726 departure
+at 96.361443 pkt 731 arrival
+at 96.374647 pkt release
+at 96.527509 pkt 727 departure
+at 96.532434 pkt 728 departure
+at 96.556443 pkt 732 arrival
+at 96.588426 pkt 733 arrival
+at 96.679682 pkt release
+at 96.686180 pkt release
+at 96.692684 pkt 729 departure
+at 96.735043 pkt 734 arrival
+at 96.799063 pkt release
+at 96.884701 pkt release
+at 96.895884 pkt release
+at 96.916758 pkt release
+at 96.948169 pkt 730 departure
+at 96.963794 pkt 735 arrival
+at 97.017867 pkt release
+at 97.174713 pkt 731 departure
+at 97.199089 pkt 732 departure
+at 97.247663 pkt 736 arrival
+at 97.318733 pkt 737 arrival
+at 97.397699 pkt 733 departure
+at 97.436897 pkt 738 arrival
+at 97.438772 pkt release
+at 97.454054 pkt release
+at 97.602276 pkt 734 departure
+at 97.723986 pkt 739 arrival
+at 97.845759 pkt release
+at 97.930428 pkt 735 departure
+at 97.967247 pkt 736 departure
+at 97.995637 pkt 740 arrival
+at 98.027419 pkt 741 arrival
+at 98.029191 pkt release
+at 98.062392 pkt release
+at 98.074704 pkt 737 departure
+at 98.095280 pkt 742 arrival
+at 98.112732 pkt 738 departure
+at 98.147845 pkt 739 departure
+at 98.160073 pkt 743 arrival
+at 98.302915 pkt 744 arrival
+at 98.356873 pkt 740 departure
+at 98.393730 pkt 745 arrival
+at 98.417366 pkt release
+at 98.469936 pkt 741 departure
+at 98.597496 pkt 742 departure
+at 98.689663 pkt 746 arrival
+at 98.704162 pkt 747 arrival
+at 98.756427 pkt release
+at 98.794957 pkt release
+at 98.801410 pkt release
+at 98.819679 pkt 743 departure
+at 98.845252 pkt 748 arrival
+at 98.927828 pkt 744 departure
+at 98.939447 pkt 749 arrival
+at 99.005765 pkt release
+at 99.172935 pkt release
+at 99.248327 pkt release
+at 99.517427 pkt release
+at 99.549769 pkt release
+at 99.578857 pkt release
+at 99.580011 pkt release
+at 99.603712 pkt 745 departure
+at 99.711037 pkt 750 arrival
+at 99.722263 pkt 746 departure
+at 99.753205 pkt 751 arrival
+at 99.804163 pkt 747 departure
+at 99.831091 pkt 752 arrival
+at 99.982261 pkt release
+at 100.026786 pkt 748 departure
+Lost rate about 25.2% 
