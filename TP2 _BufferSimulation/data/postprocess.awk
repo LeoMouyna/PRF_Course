@@ -29,7 +29,7 @@ END {
 	# output the average number of buffered packets
 	printf("%12s %10.4f\n", "buffered", buffered_avg/time);
 	# output the lost rate of departure
-	printf("Lost rate about %2.f%% \n\n", released/arrival*100);
+	printf("Lost rate about %7.f%% \n\n", released/arrival*100);
 }
 
 
