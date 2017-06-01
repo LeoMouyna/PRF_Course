@@ -20,12 +20,15 @@ double now = -1;
 fifo_buffer_t *buffer;
 FILE *tracefile;
 double lambda, mu, k;
+double nbPqtArrived =0;
+double nbPqtReleased =0;
 
 /* process arrival */
 void callback_arrival() {
 
 	/* to be completed */
-	schedule(ARRIVAL, now+exponential(lambda, seed_lambda))
+	schedule(ARRIVAL, now+exponential(lambda, &seed_lambda));
+	nbPqtArrived ++;
 
 	if (buffer->size < k){
 		packet_t *pkt;
@@ -35,9 +38,12 @@ void callback_arrival() {
 		fprintf(tracefile, "at %.6f pkt %d arrival\n", now, pkt->uid);
 
 		/* Schedule departure if alone */
-		if (buffer->size ==1) schedule(DEPARTURE, now+exponential(mu, seed_mu));
+		if (buffer->size ==1) schedule(DEPARTURE, now+exponential(mu, &seed_mu));
 	}
-	else fprintf(tracefile, "at %.6f pkt release\n", now);
+	else {
+		fprintf(tracefile, "at %.6f pkt release\n", now);
+		nbPqtReleased++;
+	}
 }
 
 /* process departure */
@@ -64,6 +70,7 @@ int main(int argc, const char* argv[]) {
 	event_t *evt;
 	char tracefilename[FILENAMELENGTH];
 	double stop;
+	float lostRate;
 
 	/* process commmand line */
 	if(argc != 6) {
@@ -110,11 +117,13 @@ int main(int argc, const char* argv[]) {
 		evt = fes_get();
 		now = evt->time;
 		if (evt->type == ARRIVAL) callback_arrival();
-		if (evt-type == DEPARTURE) callback_departure();
+		if (evt->type == DEPARTURE) callback_departure();
 
 		event_release(evt);
 
 	}
+	lostRate = nbPqtReleased/nbPqtArrived;
+	fprintf(tracefile, "Lost rate about %.1f%% \n", lostRate*100);
 
 	return(0);
 }
