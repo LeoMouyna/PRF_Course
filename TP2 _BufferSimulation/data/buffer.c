@@ -25,7 +25,19 @@ double lambda, mu, k;
 void callback_arrival() {
 
 	/* to be completed */
+	schedule(ARRIVAL, now+exponential(lambda, seed_lambda))
 
+	if (buffer->size < k){
+		packet_t *pkt;
+		pkt = packet_new();
+		fifo_buffer_in(buffer, pkt);
+		/* tracing */
+		fprintf(tracefile, "at %.6f pkt %d arrival\n", now, pkt->uid);
+
+		/* Schedule departure if alone */
+		if (buffer->size ==1) schedule(DEPARTURE, now+exponential(mu, seed_mu));
+	}
+	else fprintf(tracefile, "at %.6f pkt release\n", now);
 }
 
 /* process departure */
@@ -95,6 +107,12 @@ int main(int argc, const char* argv[]) {
 #endif //======================================================================
 
 		/* to be completed */
+		evt = fes_get();
+		now = evt->time;
+		if (evt->type == ARRIVAL) callback_arrival();
+		if (evt-type == DEPARTURE) callback_departure();
+
+		event_release(evt);
 
 	}
 
