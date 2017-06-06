@@ -42,12 +42,12 @@ BEGIN {
 		if($8 > flows)
 			flows = $8;
 		time_buf[$12] = $2;
+		packetSent[$8]++;
 	}
 
 	if($1 == "-") {
 		bytes_tx[$8] += $6;
 		tx[$8]++;
-		packetSent[$8]++;
 	}
 
 	if($1 == "r") {
