@@ -17,23 +17,35 @@ for {set i 0} {$i < $nbNodes} {incr i} {
 $ns duplex-link $n0 $n1 2Mb 10ms DropTail;
 
 #Create a new agent protocol
-set udp [new Agent/UDP];
+set udp1 [new Agent/UDP];
+$udp1 set fid_ 1;
+set udp2 [new Agent/UDP];
+$udp2 set fid_ 2;
 set sink [new Agent/Null];
 
 #Attach a protocol to a node
-$ns attach-agent $n0 $udp;
+$ns attach-agent $n0 $udp1;
+$ns attach-agent $n0 $udp2;
 $ns attach-agent $n1 $sink;
 
 #connect agents
-$ns connect $udp $sink;
+$ns connect $udp1 $sink;
+$ns connect $udp2 $sink;
 
 #Add an application
-set cbr [new Application/Traffic/CBR];
-$cbr attach-agent $udp;
+set cbr1 [new Application/Traffic/CBR];
+$cbr1 attach-agent $udp1;
+set cbr2 [new Application/Traffic/CBR];
+$cbr2 set rate_ 1.8Mb;
+$cbr2 set packetSize_ 3600;
+$cbr2 set maxpkts_ 5000;
+$cbr2 attach-agent $udp2;
 
 #Plannification des events
-$ns at 10.0 "$cbr start";
-$ns at 30.0 "$cbr stop";
+$ns at 10.0 "$cbr1 start";
+$ns at 15.0 "$cbr2 start";
+$ns at 30.0 "$cbr1 stop";
+$ns at 30.0 "$cbr2 stop";
 $ns at 30.1 "$ns flush-trace";
 $ns at 30.2 "close $file";
 $ns at 30.3 "$ns halt";
