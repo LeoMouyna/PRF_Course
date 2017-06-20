@@ -2,6 +2,7 @@
 puts "network.tcl is starting";
 set ns [new Simulator];
 set file [open "onetcp_tracefile.tr" w];
+set wndfile [open "wnd_tracefile.tr" w];
 $ns trace-all $file;
 
 #generate multiple nodes
@@ -44,11 +45,20 @@ $ns connect $tcp1 $tcpsink;
 set stp1 [new Application/FTP];
 $stp1 attach-agent $tcp1
 
+#Add a dynamic window
+proc wnd {src fid trfile} {
+    global ns
+    puts $trfile  "[$ns now] $fid [$src set cwnd_]"
+    $ns at [expr [$ns now]+0.01] "wnd $src $fid $trfile"
+}
+
 #Plannification des events
 $ns at 5.0 "$stp1 start";
+$ns at 5.0 "wnd $tcp1 0 $wndfile"
 $ns at 80.0 "$stp1 stop";
 $ns at 80.1 "$ns flush-trace";
 $ns at 80.2 "close $file";
+$ns at 80.29999999 "close $wndfile";
 $ns at 80.3 "$ns halt";
 
 puts "network.tcl is running";
